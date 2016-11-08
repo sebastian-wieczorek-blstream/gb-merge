@@ -1,6 +1,6 @@
 int main(int, char**)
 {
-				int ret = 1;
+				int ret = 2;
 				return ret;
 }
 
